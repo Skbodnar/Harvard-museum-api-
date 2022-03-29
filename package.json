@@ -1,0 +1,22 @@
+{
+  "name": "harvard-museum-api-",
+  "version": "1.0.0",
+  "description": "Practice connecting to an api endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skbodnar/Harvard-museum-api-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skbodnar/Harvard-museum-api-/issues"
+  },
+  "homepage": "https://github.com/Skbodnar/Harvard-museum-api-#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
